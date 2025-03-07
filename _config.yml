@@ -16,11 +16,11 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "en-US"
-title: "n1ghtw0lf"
+title: "k4y3d"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Abdallah Elshinbary"
-description: "Malware Analysis - Reverse Engineering - Exploit Development"
+name: "Khaled Kayed"
+description: "Malware Analysis - Reverse Engineering"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Abdallah Elshinbary"
+  name: "Khaled Kayed"
   avatar: /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Malware Analysis & Reverse Engineering Adventures."
   # location: "Area 51"
@@ -100,19 +100,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:abdallahelshinbary82@gmail.com"
+      url: "mailto:kkayed35@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_n1ghtw0lf"
+      url: "https://twitter.com/Ibn_Kayed"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/abdallah-elshinbary/"
+      url: "https://www.linkedin.com/in/khaledkayed/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/n1ght-w0lf"
+      url: "https://github.com/k4y31d"
     - label: "Buy Me a Coffee"
       icon: "fas fa-mug-hot"
-      url: "https://www.buymeacoffee.com/n1ghtw0lf"
+      url: "https://www.buymeacoffee.com/KMIMEMK"
 
 # Site Footer
 footer:
