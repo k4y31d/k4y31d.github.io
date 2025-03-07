@@ -110,9 +110,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/k4y31d"
-    - label: "Buy Me a Coffee"
-      icon: "fas fa-mug-hot"
-      url: "https://www.buymeacoffee.com/KMIMEMK"
+    #- label: "Buy Me a Coffee"
+     # icon: "fas fa-mug-hot"
+     # url: "https://www.buymeacoffee.com/KMIMEMK"
 
 # Site Footer
 footer:
